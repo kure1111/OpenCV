@@ -1,0 +1,12 @@
+programa saca la media de 15 imagenes y las ultimas 5 se pueden ocupar para pruebas.
+recibe una imagen de entrada desde terminal
+y de salida da la distancia entre la media y la imagen de entrada  
+tambien se puede vizualizar la imagen de la media  y la imagen de entrada
+
+compilar desde terminal:
+
+g++ suma2.cpp -o suma2 $(pkg-config --cflags --libs opencv)
+
+ejecutar ejemplo:
+
+./suma2 I16.png 

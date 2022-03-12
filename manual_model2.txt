@@ -1,0 +1,13 @@
+programa saca la media de 45 imagenes combinando columnas y renglones
+las ultimas 5 se pueden ocupar para pruebas.
+recibe una imagen de entrada desde terminal
+y de salida da la distancia entre la media y la imagen de entrada  
+tambien se puede vizualizar la imagen de la media  y la imagen de entrada
+
+compilar desde terminal:
+
+g++ model_2.cpp -o model2 $(pkg-config --cflags --libs opencv)
+
+ejecutar ejemplo:
+
+./model2 I47.png

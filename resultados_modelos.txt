@@ -1,0 +1,27 @@
+Garcia Procopio Alberto
+
+		LETRAS A MANO
+
+	| Img1	  Img2 	   Img3	   Img4	   Img5		Promedio
+	| 
+______________________________________________________________________________
+modelo1  30.08	  29.31	   23.43   26.93   27.77  	27.504
+modelo2  29.31    29.21    27.11   30.02   30.94	29.318
+modelo3  35.41    31.69    29.19   30.30   32.16	31.750
+
+
+
+
+		LETRAS DE IMPRENTA
+
+	| Img1	  Img2 	   Img3	   Img4	   Img5
+	| 
+______________________________________________________________________________
+modelo1  29.15	  29.24	   31.51   28.69   32.59  	30.236
+modelo2  32.92    32.91    35.51   32.26   34.29	33.578
+modelo3  16.34    16.61    25.81   13.93   27.22	19.982
+
+Conclusion:
+con las letras a mano la que mejor resultados arrojo en promedio fue el modelo1 debido a que las imagenes de prueba fueron de la primeras 20's que se tomaron y con los modelos 2 y 3 se añadieron nuevas imagenes pero estas tenian una inclinacion que no tenian las imagenes de prueba pero como se puede ver le modelo 2 es mas general ya que no presenta tanta desviacion en las 5 pruebas.
+
+Con las letras de imprenta el de mejor resultado claro esta y por mucho es el tercer modelo debido a que las letras no tienen tanta variacion en comparacion con las hechas a mano  

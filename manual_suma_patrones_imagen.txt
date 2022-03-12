@@ -1,0 +1,11 @@
+programa que mide distancia entre dos letras
+recibe dos imagenes de entrada desde terminal
+y de salida la distancia junto de como se ven las imagenes normalizadas
+
+compilar desde terminal:
+
+g++ suma.cpp -o suma $(pkg-config --cflags --libs opencv)
+
+ejecutar ejemplo:
+
+./suma I1.png I2.png 
